@@ -65,7 +65,7 @@ functions.
 ## Instruction for code files
 
 The four code file makes the assumption that the data file of
-the Elctric data consumption are on the data folder of the Project.
+the Elctric data consumption are on the "data"" folder of the Project.
 
 
 ## Making Plots
