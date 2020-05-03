@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 ## Introduction
 
 This assignment uses data from
@@ -57,6 +62,11 @@ functions.
 
 * Note that in this dataset missing values are coded as `?`.
 
+## Instruction for code files
+
+The four code file makes the assumption that the data file of
+the Elctric data consumption are on the data folder of the Project.
+
 
 ## Making Plots
 
@@ -111,4 +121,6 @@ The four plots that you will need to construct are shown below.
 ### Plot 4
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+
+
 
